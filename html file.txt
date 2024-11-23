@@ -1,0 +1,90 @@
+<!-- ‍****************************************************************** -->
+<!-- ‍                                                                   -->
+<!-- ‍                                                   |\              -->
+<!-- ‍    index.html                               ------| \----         -->
+<!-- ‍                                             |    \`  \  |  p      -->
+<!-- ‍    <!-- ‍                                   |  \`-\   \ |  o      -->
+<!-- ‍                                             |---\  \   `|  l      -->
+<!-- ‍    <!-- ‍                                   | ` .\  \   |  y      -->
+<!-- ‍    Updated: 2024/11/22 17:12:59 by Owner    -------------         -->
+<!-- ‍                                                                   -->
+<!-- ‍****************************************************************** -->
+‍******************************************************************
+<!-- s -->
+<!-- ‍                                                                   -->
+<!-- ‍                                                   |\              -->
+<!-- ‍    index.html                               ------| \----         -->
+<!-- ‍                                             |    \`  \  |  p      -->
+<!-- ‍    By: Owner                                |  \`-\   \ |  o      -->
+<!-- ‍                                             |---\  \   `|  l      -->
+<!-- ‍                                             | ` .\  \   |  y      -->
+<!-- ‍    Updated: 2024/11/22 16:39:55 by Owner    -------------         -->
+<!-- ‍                                                                   -->
+<!-- ‍****************************************************************** -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mosesbaikamara</title>
+</head>
+<body>
+    <h1 style="color:blue;">welcome to central university</h1>
+    <h1 style="color: blue;">what is html</h1>
+     <h3>HTML stands for HyperText Markup Language. It is a standard markup language for web page creation. It allows the creation and structure of sections, paragraphs, and links using HTML elements (the building blocks of a web page) such as tags and attributes. 
+
+        HTML has a lot of use cases, namely:
+        
+        Web development. Developers use HTML code to design how a browser displays web page elements, such as text, hyperlinks, and media files. 
+        Internet navigation. Users can easily navigate and insert links between related pages and websites as HTML is heavily used to embed hyperlinks. 
+        Web documentation. HTML makes it possible to organize and format documents, similarly to Microsoft Word.
+        It’s also worth noting that HTML is not considered a programming language as it can’t create dynamic functionality, although it is now considered an official web standard. The World Wide Web Consortium (W3C) maintains and develops HTML specifications, along with providing regular updates. 
+        
+        This article will go over the basics of HTML, including how it works, its pros and cons, and how it relates to CSS and JavaScript. 
+        
+        .</h3>
+    <h3>are you ready to learn</h3>
+    <h6>sitdown and relax</h4>
+    <h5></h5>
+    <img src="image1.jpg" width="200">
+    <body>
+        <h1 style="color: blue;">what is htnl</h1>
+    </body>
+
+    <p>HTML stands for HyperText Markup Language. It is a standard markup language for web page creation. It allows the creation and structure of sections, paragraphs, and links using HTML elements (the building blocks of a web page) such as tags and attributes. 
+
+        HTML has a lot of use cases, namely:
+        
+        Web development. Developers use HTML code to design how a browser displays web page elements, such as text, hyperlinks, and media files. 
+        Internet navigation. Users can easily navigate and insert links between related pages and websites as HTML is heavily used to embed hyperlinks. 
+        Web documentation. HTML makes it possible to organize and format documents, similarly to Microsoft Word.
+        It’s also worth noting that HTML is not considered a programming language as it can’t create dynamic functionality, although it is now considered an official web standard. The World Wide Web Consortium (W3C) maintains and develops HTML specifications, along with providing regular updates. 
+        
+        This article will go over the basics of HTML, including how it works, its pros and cons, and how it relates to CSS and JavaScript. 
+        </p>
+        <video src="vid1.mp4"controls></video>
+       <audio src="audio2.opus"controls></audio>
+    <th>
+    <th>name</th>
+    <th>year</th>
+    <th>signature</th>
+    <th>class</th>
+    <th>program</th>
+    
+    </th>
+       <a href="this is the link">click me</a>
+       <body>
+        <h1 style="color: blue;">THE HISTRY OF CENTRAL UNIVERSITY</h1>
+       </body>
+       <p>Founded in 2014, Central University, formerly known as the Canadian University of Modern Technology, proudly embraces educational innovation and excellence. In 2008,  Mr. Muckson Sesay established the Ishaak Muckson Innovative Technology Training Center to provide essential hardware and software training for youths in Sierra Leone, fostering a new generation of skilled professionals.</p>
+    <p>Mr. Sesay’s dedication to strengthening education in Sierra Leone caught the attention of philanthropist Mr. Wesley Penner, who recognized the potential for transformative impact in the country. Mr. Penner provided the financial resources necessary for the establishment and construction of the state-of-the-art Central University in the remote community of Mile 91, in northern Sierra Leone. This partnership has equipped the university with cutting-edge technology and facilities that are unparalleled in Sierra Leone, positioning Central University as a leader in the field of technology and innovation.</p>
+<p>Central University offers a diverse range of undergraduate programs that cater to the ever-evolving needs of the global workforce. These programs, combined with a dedicated faculty of accomplished scholars, ensure that students receive a world-class education, empowering them to become leaders in their respective fields.</p>
+    <p>Currently, Central University has earned several national recognition for its creative and innovative competitiveness in the country. It stands as the most sophisticated and technologically advanced tertiary institution in Sierra Leone, featuring both TV and radio stations for its students’ practical. These media outlets provide students with hands-on experience in broadcasting, journalism, and media production, further enhancing their skills and employability.</p>   
+    <p>In addition to its academic excellence, Central University is committed to fostering a vibrant and inclusive campus culture. The university offers a wide array of extracurricular activities, clubs, and societies that encourage personal growth, social engagement, and leadership development. By providing a supportive and nurturing environment, Central University equips its students with the tools they need to succeed both academically and personally.</p>
+<p>In addition to its academic excellence, Central University is committed to fostering a vibrant and inclusive campus culture. The university offers a wide array of extracurricular activities, clubs, and societies that encourage personal growth, social engagement, and leadership development. By providing a supportive and nurturing environment, Central University equips its students with the tools they need to succeed both academically and personally.</p>
+
+    <body style="background-color:powderblue;">
+        
+    </body>
+</body>
+</html>
